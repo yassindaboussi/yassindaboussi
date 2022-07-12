@@ -45,7 +45,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 
-### ⚙️ GitHub Analytics
+# ⚙️ GitHub Analytics
 
 <p align=center>
     <div align="center">
@@ -56,3 +56,25 @@
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
 </p>
+
+# 📫 Connect with me
+If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
+you can always contact me at: <br>
+
+<!-- Social Links -->
+<div align="center">
+<a href="mailto:yassin.daboussi@esprit.tn"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/yassindaboussi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/yassindaboussi/"><img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<a href="https://www.facebook.com/yassdaboussi/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+</div>
+
+
+<h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
+
+---
+
+<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
