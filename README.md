@@ -52,6 +52,7 @@
      <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=yassindaboussi&show_icons=true&theme=algolia"/>
       <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassindaboussi&theme=algolia" alt="webDev's Github stats" />
       <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassindaboussi&layout=compact&theme=algolia"/>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+      <br>
+      <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
 </p>
