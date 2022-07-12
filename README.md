@@ -50,8 +50,8 @@
 
 <p align=center>
     <div align="center">
-     <img align="left" width = "450px" src ="https://github-readme-stats.vercel.app/api?username=yassindaboussi&show_icons=true&theme=algolia"/>
-      <img align="right" width = "450px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassindaboussi&theme=algolia" alt="webDev's Github stats" />
+     <img align="left" width = "400px" src ="https://github-readme-stats.vercel.app/api?username=yassindaboussi&show_icons=true&theme=algolia"/>
+      <img align="right" width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassindaboussi&theme=algolia" alt="webDev's Github stats" />
       <img align="center" height="177.27px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassindaboussi&layout=compact&theme=algolia"/>
     </div>
 </p>
