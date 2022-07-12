@@ -52,6 +52,6 @@
     <div align="center">
      <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=yassindaboussi&show_icons=true&theme=algolia"/>
       <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassindaboussi&theme=algolia" alt="webDev's Github stats" />
-      <img  height="177.27px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassindaboussi&layout=compact&theme=algolia"/>
+      <img  height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassindaboussi&layout=compact&theme=algolia"/>
     </div>
 </p>
