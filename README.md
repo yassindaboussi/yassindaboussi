@@ -44,4 +44,14 @@
 ### :computer: Platforms
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android) ![iOS](https://img.shields.io/badge/-iOS-090909?style=for-the-badge&logo=ios)
 ![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
----
+
+
+### ⚙️ GitHub Analytics
+
+<p align=center>
+    <div align="center">
+     <img  width = "450px" src ="https://github-readme-stats.vercel.app/api?username=yassindaboussi&show_icons=true&theme=algolia"/>
+      <img width = "450px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassindaboussi&theme=algolia" alt="webDev's Github stats" />
+      <img height="177.27px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassindaboussi&layout=compact&theme=algolia"/>
+    </div>
+</p>
