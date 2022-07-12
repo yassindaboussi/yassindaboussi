@@ -14,8 +14,8 @@
 <div align="left">
 
 # 👨🏻‍💻  About Me
-💡  I am a passionate mobile engineer with great interest in developing and programming software.<br>
-💻  I’m currently working on something cool.<br>
+💡  I am a passionate mobile engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
+💻  I’m currently working on something cool <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
 ✍️  In my free time, I usually listen to music and pursue writing as my hobbies.<br>
 ✉️  You can email me at yassin.daboussi@esprit.tn. I'll try to respond as soon as possible!<br>
 
