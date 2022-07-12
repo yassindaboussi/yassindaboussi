@@ -12,13 +12,13 @@
 </p>
 <div align="left">
 
-## 👨🏻‍💻  About Me
+# 👨🏻‍💻  About Me
 💡  I am a passionate mobile engineer with great interest in developing and programming software.<br>
 💻  I’m currently working on something cool.<br>
 ✍️  In my free time, I usually listen to music and pursue writing as my hobbies.<br>
 ✉️  You can email me at yassin.daboussi@esprit.tn. I'll try to respond as soon as possible!<br>
 
-## :hammer_and_wrench: Languages and Tools, and Platforms :
+# :hammer_and_wrench: Languages and Tools, and Platforms :
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
