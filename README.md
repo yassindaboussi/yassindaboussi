@@ -72,7 +72,7 @@ you can always contact me at: <br>
 </div>
 
 
-<h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
+<h6 align="center"> </h6>
 
 ---
 <p align="center">(<a href="#top">back to top</a>)</p>
