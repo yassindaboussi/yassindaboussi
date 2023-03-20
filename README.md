@@ -59,6 +59,11 @@
     </div>
 </p>
 
+
+# 👨‍🔧 Currently Working On
+
+[![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/yassindaboussi/Discovery-Android&mode=dark&style=horizontal)](https://github.com/yassindaboussi/Discovery-Android)
+
 # 📫 Connect with me
 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
 you can always contact me at: <br>
