@@ -64,9 +64,9 @@
 
 # 👨‍🔧 Currently Working On
 <p align=center>
-    <div align="center">
+    <a align="center" href="https://github.com/yassindaboussi/Discovery-Android">
 <img  height="110px" src="https://svg.bookmark.style/api?url=https://github.com/yassindaboussi/Discovery-Android&mode=dark&style=horizontal"/>
-    </div>
+    </a>
 </p>
 
 # 📫 Connect with me
