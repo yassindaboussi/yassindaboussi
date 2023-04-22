@@ -48,7 +48,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 
-# <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> GitHub Analytics
+# <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30">GitHub Analytics
 
 <p align=center>
     <div align="center">
