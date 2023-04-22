@@ -14,13 +14,13 @@
 </p>
 <div align="left">
 
-# 👨🏻‍💻  About Me
+# <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> About Me
 💡  I am a passionate mobile engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
 💻  I’m currently working on something cool <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
 ✍️  In my free time, I usually listen to music  and pursue writing as my hobbies .<br>
 ✉️  You can email me at yassin.daboussi@esprit.tn. I'll try to respond as soon as possible !<br>
 
-# :hammer_and_wrench: Languages, tools, and platforms 
+# <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Languages, tools, and platforms 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
@@ -48,7 +48,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 
-# ⚙️ GitHub Analytics
+# <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> GitHub Analytics
 
 <p align=center>
     <div align="center">
