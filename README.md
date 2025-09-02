@@ -22,7 +22,7 @@
 
 # <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Languages, tools, and platforms 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470ច47/0137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 <br>
@@ -32,8 +32,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -42,10 +46,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 <br>
-![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android) ![iOS](https://img.shields.io/badge/-iOS-090909?style=for-the-badge&logo=ios)
-![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
+![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-090909?style=for-the-badge&logo=ios)
+![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS)
+![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 
 # <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30">GitHub Analytics
