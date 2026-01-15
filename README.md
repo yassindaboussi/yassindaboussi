@@ -53,21 +53,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 
-# <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30">GitHub Analytics
-
-<div align="center">
-
-  <img height="164px" src="https://github-readme-stats.vercel.app/api?username=yassindaboussi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassindaboussi&layout=compact&show_icons=true&theme=tokyonight" />
-
-  <br><br>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-</div>
-
-
 # 👨‍🔧 Currently Working On
 <p align=center>
     <a align="center" href="https://github.com/yassindaboussi/PrayerTimesApp">
