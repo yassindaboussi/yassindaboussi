@@ -50,8 +50,8 @@
 
 # 👨‍🔧 Currently Working On
 <p align=center>
-    <a align="center" href="https://github.com/yassindaboussi/PrayerTimesApp">
-<img  height="110px" src="https://svg.bookmark.style/api?url=https://github.com/yassindaboussi/PrayerTimesApp&mode=dark&style=horizontal"/>
+    <a align="center" href="https://github.com/yassindaboussi/Salaty">
+<img  height="110px" src="https://svg.bookmark.style/api?url=https://github.com/yassindaboussi/Salaty&mode=dark&style=horizontal"/>
     </a>
 </p>
 
